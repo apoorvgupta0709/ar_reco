@@ -11,25 +11,47 @@
 - **R's new FINAL claim: R − A = +₹37,57,934**, built almost entirely on a new **₹37,33,724 "Rest of the expenses" sheet**.
 - That sheet is **R's claim, unvalidated** — it cannot enter the reconciliation until R shares her bank/card statements proving she paid those items. It also carries an **internal double-count** (a ₹9.56L "Splitwise household" lump layered over itemized rows).
 - **Symmetry:** R listed *all* her day-to-day spend; A had conservatively left his own out. Put back in, **A's own documented day-to-day + personal expenses are ~₹47L** — *larger* than her ₹37.34L. The day-to-day was shared, not one-sided, so it does not move the gap in her favour.
-- On **validated data**, the cashflow position holds at **~₹11.96L in A's favour** (the May-round number), pending R's statements.
+- On **validated data**, the cashflow position is **~₹11.96L in A's favour** on the May basis. Taking her genuine till-Aug extensions at face value (EMIs + maid + school + the Tiago ₹66k credit; the unexplained ₹2.56L rent cut restored) it is **~₹10.08L in A's favour**, or **~₹7.81L** after the §2.4 concessions — pending R's statements.
+- **New finding (7-Jul-2026 audit): R's FINAL ₹37,57,934 is overstated by ₹5,48,710 by her own arithmetic.** Her Top sheet starts from an "old sheet" R−A of ₹30,13,962 — but her old file's gap was ₹35,62,672. The ₹30,13,962 is **A's Common-Household B1 figure copied from A's 26-May reply file** (match to the rupee). On her own method, her FINAL is **+₹32,09,224, not +₹37,57,934** (§1).
 - The substantive content is now three things: the **four-asset reconciliation** (§4), the **Oorvi money** (§3), and **A's income vs where it went** (§5) — which shows A earned ₹1.71Cr net and retained **almost no liquid savings**.
 
 > Expense math, not a settlement figure. Assets, income disparity, maintenance and custody sit outside it — for the lawyer.
 
 ---
 
-## 1. R's new arithmetic, restated
+## 1. R's new arithmetic, restated — and a ₹5,48,710 error inside it
 
-Her FINAL ₹37,57,934 is built as:
+Her FINAL ₹37,57,934 is built as (Top sheet rows 18–24 + Rest sheet):
 
 | Step | ₹ | Running R−A |
 |---|---:|---:|
 | A's claimed excess (A's −11,96,028) | | −11,96,028 |
-| + EMIs added "till Aug" (2 homes + car) | +9,92,710 | −2,03,318 |
+| + "EMIs till Aug" step (as she computed it — see below) | +9,92,710 | −2,03,318 |
 | − "Wrong claims" stripped from A (car/Sobha ₹1,46,000 + insurance/SIP ₹81,528) | +2,27,528 | +24,210 |
 | + New **"Rest of the expenses by R"** sheet | +37,33,724 | **+37,57,934** |
 
-The entire swing is the ₹37.34L sheet. The ₹9.93L Aug-EMI jump and a quiet ₹2.56L cut to A's rent credit also need checking (§6).
+### 1.1 The copy error (found 7-Jul-2026; resolves old open item §6.2)
+
+Her Top sheet row 18 records *"R-A amount as per old sheet (updated till May)"* as **₹30,13,962**. That is not her old gap: **her May file's gap was ₹35,62,672** (her old Top sheet J14; also stated in A's 26-May reply file, cell A2). ₹30,13,962 is **A's "Common Household B1" figure, copied from A's 26-May reply file** — the match is exact to the rupee.
+
+She then reconstructs A's additions as old-gap + A's excess = 30,13,962 + 11,96,028 = **₹42,09,990**, where the true figure is 35,62,672 + 11,96,028 = **₹47,58,700**. Net effect: **her FINAL is overstated by ₹5,48,710 in her own favour**. On her own method, with her own new numbers, the FINAL is **+₹32,09,224, not +₹37,57,934** (40,06,672 − 47,58,700 = −7,52,028 → +2,27,528 wrong-claims → −5,24,500 → +37,33,724 Rest sheet → +32,09,224).
+
+Corollary: her implied "+₹9,92,710 EMIs till Aug" is bookkeeping fiction. The **real May→June Top-sheet movement is +₹4,44,000** (35,62,672 → 40,06,672), fully decomposed:
+
+| Change (May Top sheet → 27-Jun Top sheet) | Effect on gap (R−A) |
+|---|---:|
+| One DXP EMIs extended till Aug: A +3,60,000, R +5,07,000 (incl. Jul/Aug EMIs not yet paid at her 27-Jun email date) | +1,47,000 |
+| Tiago: A now credited ₹66,000 (was 0) | −66,000 |
+| A's rent credit cut 25,53,000 → 22,97,000 — **unexplained, disputed** | +2,56,000 |
+| Maid salaries 17,92,000 → 18,49,000 | +57,000 |
+| Oorvi's school 4,68,000 → 5,18,000 | +50,000 |
+| **Total** | **+4,44,000** |
+
+### 1.2 Position after the till-Aug reconciliation
+
+Accepting the genuine time extensions (EMIs, maid, school, Tiago credit = net +₹1,88,000 toward R) but restoring the unexplained rent cut: A's excess = 11,96,028 − 1,88,000 = **₹10,08,028**; after the §2.4 concessions (₹2,27,528) → **₹7,80,500 in A's favour**. If the rent cut were somehow substantiated, those become ₹7,52,028 / ₹5,24,500. Symmetry note: A's ₹47.59L of additions are themselves "till May" — extending A's day-to-day and Oorvi spend to August on the same basis adds back toward A.
+
+Beyond that, the entire swing in her file is the ₹37.34L Rest sheet (§2).
 
 ---
 
@@ -179,7 +201,7 @@ Where that ₹1.71Cr went:
 ## 6. Open items / what would move the number
 
 1. **R's bank + card statements** — to validate (or not) any of the ₹37.34L Rest-of-Expenses, and to trace the Oorvi ₹9.91L into the XUV/MF.
-2. **The Aug-EMI ₹9.93L jump and the ₹2.56L cut to A's rent credit** in her new Top sheet — verify against her May file; likely several lakh back toward A.
+2. ~~The Aug-EMI ₹9.93L jump and the ₹2.56L cut to A's rent credit~~ — **RESOLVED (7-Jul-2026), see §1.1**: the "₹9.93L jump" was a copy error in her sheet worth ₹5,48,710 in her favour; the real movement is +₹4,44,000, of which the ₹2.56L rent cut remains unexplained/disputed and the rest is genuine till-Aug extension (net +₹1.88L).
 3. **Mutual-fund / demat statements** — to test "safely invested for Oorvi, never touched."
 4. **HDFC / ICICI savings** (still pending) and pre-2023 data for the Splitwise years.
 

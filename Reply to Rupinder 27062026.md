@@ -12,7 +12,7 @@ Thanks for the updated file. I've gone through it line by line against my own re
 
 I've kept my reply in the **same summary format as yours** — category heads only, no transaction-level detail — so it's easy to compare side by side. Every number below is backed by a bank or card statement, and I'm happy to walk through the underlying detail with you or with the lawyers whenever you want it.
 
-**The short version:** on the same expenses, verified against statements, the cash gap is **~₹11.96 lakh in my favour**, not ₹37.57 lakh in yours. Your two objections to that (the "Oorvi money" and the "double-counting") don't hold once you look at the accounts — I've addressed both below. And the new ₹37.34 lakh "rest of the expenses" you've added is one-sided: on the very same basis, my own day-to-day spend is *larger* than yours (~₹47 lakh), so that pool is shared, not something I owe.
+**The short version:** on the same expenses, verified against statements, the cash gap is **~₹8 to ₹12 lakh in my favour**, not ₹37.57 lakh in yours. Your two objections to that (the "Oorvi money" and the "double-counting") don't hold once you look at the accounts — I've addressed both below. Your new sheet also carries a **₹5.49 lakh arithmetic slip in your own favour** — the "old sheet" figure you started from isn't your old gap at all (§5). And the new ₹37.34 lakh "rest of the expenses" you've added is one-sided: on the very same basis, my own day-to-day spend is *larger* than yours (~₹47 lakh), so that pool is shared, not something I owe.
 
 ---
 
@@ -34,6 +34,8 @@ Same heads as your top sheet, with my side filled in from statements. My asset c
 
 Two honest notes so you know I'm not inflating anything: on **Maid salaries** and **Oorvi's school** I've left my side at ~zero — my traceable spend there is negligible, and I'm not going to claim what I can't show. That's exactly the standard I'd ask you to hold your own numbers to. On the property/EMI rows I've used the *actual* joint-account debits (One DXP ₹33.88L and Sobha ₹11.39L, split by how each of us funded that account — my share ~55%, yours ~45%), which is cleaner than the gross-transfer view in your sheet.
 
+One number I have deliberately kept from your **earlier** sheet: **my rent credit of ₹25,53,000**. Your new file quietly cuts it to ₹22,97,000 — a ₹2.56 lakh reduction with no explanation and no backing. Your own May sheet carried ₹25.53L, and my rent payments trace to statements. If there's a reason for the cut, show me and I'll look at it; until then I've restored it. (Your other till-Aug updates — maid ₹18.49L and school ₹5.18L — I've taken as given above.)
+
 The two loan transfers largely offset each other and should be settled at transfer value, not left on the expense sheet: I put ~₹10–11 lakh into **Sobha, which is now solely yours**, and you put ₹6.58 lakh into **Tiago, which is now solely mine**.
 
 ---
@@ -52,6 +54,8 @@ Your sheet credits me for property, EMIs and rent, but drops every other rupee I
 | **Total my-side additions your file omits** | **47,58,700** |
 
 Once these are in, the gap moves from your **+₹35.6 lakh** to **≈ ₹11.96 lakh in my favour.** This is the ₹11.96 lakh I showed you earlier — it isn't a new claim, it's just your own categories with my side completed.
+
+Your new file then extends things "till Aug". Taking those updates at face value — the EMI extension (which, note, includes July and August EMIs that hadn't even been paid when you sent the file on 27 June), the maid and school months, and the ₹66k Tiago credit you've now given me — moves the gap by ₹1.88 lakh toward you, i.e. **₹10.08 lakh in my favour on your own updated numbers** (with the unexplained ₹2.56 lakh rent cut restored — see §1). And the same logic runs both ways: my ₹47.59 lakh of additions above is also only "till May" — extend my day-to-day and Oorvi spend to August on the same basis and my side grows too.
 
 ---
 
@@ -82,11 +86,21 @@ Here you're partly right, and I'll concede it rather than argue:
 - **₹1.46 lakh** — the Sobha ₹1.25 lakh card payment and a ₹21k car item were already accounted; fair to remove.
 - **₹81,528** — life-insurance premium and the Tata-AIA SIP are personal to me and correctly sit outside common household.
 
-Conceding the full ₹2.27 lakh eases my excess from ₹11.96 lakh to **≈ ₹9.7 lakh in my favour**. But note what it does *not* do: it doesn't touch the ₹9 lakh Oorvi point (§3), which stands. So even after giving you both of these, the position is roughly **₹9.7 to ₹11.96 lakh in my favour** — not the near-zero your file assumes before adding the new sheet.
+Conceding the full ₹2.27 lakh eases my excess from ₹11.96 lakh to **≈ ₹9.7 lakh in my favour** on the May basis — or from ₹10.08 lakh to **≈ ₹7.8 lakh** on your till-Aug numbers (§2). But note what it does *not* do: it doesn't touch the ₹9 lakh Oorvi point (§3), which stands. So even after giving you both of these, the position is roughly **₹7.8 to ₹9.7 lakh in my favour** — not the near-zero your file assumes before adding the new sheet.
 
 ---
 
-## 5. The new ₹37.34 lakh "rest of the expenses" — this cuts both ways
+## 5. A ₹5.49 lakh arithmetic slip in your new sheet — in your own favour
+
+Before the new expenses sheet, there's a straight arithmetic problem in your top sheet that needs correcting.
+
+Your working (rows 18–21) starts from *"R-A amount as per old sheet (updated till May): ₹30,13,962"* and adds my claimed excess of ₹11,96,028 to reconstruct my additions as ₹42,09,990. But **₹30,13,962 was never your old gap — your own May file showed ₹35,62,672** (its Top sheet J14, and the same figure is quoted in my 26-May reply). ₹30,13,962 is actually **my "Common Household B1" number, copied across from my reply file** — the match is exact to the rupee.
+
+Corrected, my additions are ₹35,62,672 + ₹11,96,028 = **₹47,58,700** (which is what §2 lists, item by item). Run your own method with the right figure and your FINAL comes to **+₹32,09,224, not +₹37,57,934** — the claim is **overstated by ₹5,48,710** before we even discuss whether the new sheet belongs in the reconciliation at all (§6).
+
+---
+
+## 6. The new ₹37.34 lakh "rest of the expenses" — this cuts both ways
 
 I understand the point: a lot of day-to-day spend never made it cleanly onto either side. But it can't go on *only* your side. This isn't a new claim from me — it's the same everyday spending, shown symmetrically. When I list my own day-to-day and personal spend on the same basis — from statements — it's *larger* than yours:
 
@@ -97,8 +111,8 @@ I understand the point: a lot of day-to-day spend never made it cleanly onto eit
 | Travel & hotels (MakeMyTrip / ITC / flights) | ~6,67,000 | ~6,00,000 |
 | Cab / fuel / vehicle & servicing | ~3,97,000 | ~1,80,000 |
 | Appliances & home | ~51,000 | ~1,38,000 |
-| Therapy / medical / insurance | ~1,44,000 | ~2,40,000 |
-| Utilities (phone / internet / gas) | *(in your rent head)* | ~2,18,000 |
+| Therapy / medical / movies | ~1,08,000 | ~2,40,000 |
+| Utilities (phone / internet / laundry) | ~35,000 | ~2,18,000 |
 | Personal consumption (cash, subscriptions, other) | — | ~19,14,000 |
 | Splitwise "household" lump | ~9,56,000 | — |
 | **Total** | **37,33,724** | **~47,00,000** |
@@ -111,9 +125,9 @@ Two things to flag on your sheet specifically:
 
 ---
 
-## 6. Where this leaves us
+## 7. Where this leaves us
 
-On verified expense cashflow — your categories, my side completed, your two objections addressed — the position is **roughly ₹9.7 to ₹11.96 lakh in my favour**, pending your statements. That's a long way from ₹37.57 lakh the other way.
+On verified expense cashflow — your categories, my side completed, your till-Aug updates taken on board, your two objections addressed — the position is **roughly ₹8 to ₹10 lakh in my favour** (₹10–12 lakh before the concessions in §4), pending your statements. That's a long way from ₹37.57 lakh the other way — a figure which, on your own method, should already read **₹32.09 lakh** once the ₹5.49 lakh slip in §5 is corrected, and which rests entirely on the unvalidated sheet addressed in §6.
 
 A few things I've deliberately kept **out** of that cashflow number, because they belong in a separate settlement/asset conversation for the lawyers, not in this expense sheet:
 
