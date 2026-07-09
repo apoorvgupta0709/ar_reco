@@ -16,10 +16,12 @@ R shared a spreadsheet claiming a large net contribution gap in her favour. A is
 | Position | Gap (R − A) | Source |
 |---|---:|---|
 | R's latest claim (27 Jun file) | **₹40,06,672** in R's favour | `Emails/Rupinder 27062026 file.xlsx` → `Top sheet` J14 |
-| R's earlier claim (26 May exchange) | ₹35,62,672 in R's favour | the markdown docs / `Email reply to R.md` were written against this |
-| A's rebuttal to the **27-Jun** file (cashflow, validated data) | **~₹11.96L in A's favour** (pending R's statements) | `Rebuttal v2 findings.md` |
+| R's earlier claim (16 May file) | ₹35,62,672 in R's favour | her May file's Top sheet J14 (file not in repo; verified in `Cross-check findings.md`) |
+| A's rebuttal to the **27-Jun** file (cashflow, validated data) | **~₹10.08L in A's favour** on her till-Aug basis; **₹7.81L** after concessions; ₹11.96L on the May basis — quote the band **₹8–12L in A's favour** (pending R's statements) | `Rebuttal v2 findings.md` §1.2 |
 
-> **R's 27-Jun move:** she added a new **₹37.34L "Rest of the expenses" sheet** (day-to-day spend) → FINAL claim R−A = +₹37,57,934. A's stance (per `Rebuttal v2 findings.md`): that sheet is **unvalidated** (no statements) and **double-counts itself** (a ₹9.56L "Splitwise household" lump layered over itemized rows, mostly 2018–19), so it does not enter the reco. On the **same basis A's own documented day-to-day + personal spend is ~₹47L** (larger than her ₹37.34L) → the day-to-day is symmetric, not owed by A. So cashflow holds at **~₹11.96L in A's favour** pending R's statements. The real substance is now: the **four-asset reconciliation** (One DXP/Sobha/Tiago/XUV — A's side stress-tested to source: **₹43.24L hard-verified** of ₹51.14L claimed; the ₹7.9L gap = property TDS ₹2.74L + both car payments ₹5.16L, paid from the still-pending HDFC/ICICI accounts. One DXP down ₹14.5L + both EMI streams tie exactly; Sobha corrected to ₹11.06L after removing a ₹1.25L CC double-count; A owed ~₹10–11L on Sobha; R's ₹21L XUV reduced by the Oorvi ₹9.91L), the **Oorvi finding**, and **A's income statement** (₹1.71Cr net fully consumed, ~zero liquid savings — Noida-house-yet-shifted-to-Gurgaon lifestyle).
+> **The ₹5.49L copy error (found 7-Jul-2026):** R's 27-Jun Top sheet row 18 starts from "old sheet R−A = ₹30,13,962" — but her old gap was ₹35,62,672; the ₹30,13,962 is **A's Common-Household B1 figure copied from A's 26-May reply file** (exact to the rupee). On her own method her FINAL is **+₹32,09,224, not +₹37,57,934**. The real May→June top-sheet movement is +₹4,44,000: EMI extension +₹1.47L (partly *projected* Jul/Aug 2026 payments), an unexplained ₹2.56L cut to A's rent credit (disputed — Axis shows ₹4,21,202 of A-paid 2024 rent that her new table zeroes), Tiago −₹0.66L, maid/school +₹1.07L. See `Rebuttal v2 findings.md` §1.1.
+
+> **R's 27-Jun move:** she added a new **₹37.34L "Rest of the expenses" sheet** (day-to-day spend) → FINAL claim R−A = +₹37,57,934 (**₹32.09L** once the copy error is corrected). A's stance (per `Rebuttal v2 findings.md`): that sheet is **unvalidated** (no statements) and **double-counts itself** (a ₹9.56L "Splitwise household" lump layered over itemized rows, mostly 2018–19), so it does not enter the reco. On the **same basis A's own documented day-to-day + personal spend is ~₹47L** (larger than her ₹37.34L) → the day-to-day is symmetric, not owed by A. So cashflow sits at **~₹10.08L in A's favour** (till-Aug basis, rent cut restored; ₹7.81L after the ₹2.27L concessions) pending R's statements. The real substance is now: the **four-asset reconciliation** (One DXP/Sobha/Tiago/XUV — A's side stress-tested to source: **₹43.24L hard-verified** of ₹51.14L claimed; the ₹7.9L gap = property TDS ₹2.74L + both car payments ₹5.16L, paid from the still-pending HDFC/ICICI accounts. One DXP down ₹14.5L + both EMI streams tie exactly; Sobha corrected to ₹11.06L after removing a ₹1.25L CC double-count; A owed ~₹10–11L on Sobha; R's ₹21L XUV reduced by the Oorvi ₹9.91L), the **Oorvi finding**, and **A's income statement** (₹1.71Cr net fully consumed, ~zero liquid savings — Noida-house-yet-shifted-to-Gurgaon lifestyle).
 
 A's rebuttal additionally flags **asset-equity claims handled separately** (not in the cashflow gap): Sobha EMI share ~₹6.28L, refundable security deposit ₹2.6L, marital-era investments ₹46.99L.
 
@@ -38,7 +40,7 @@ These numbers **evolve as more statements arrive** (HDFC/ICICI savings still pen
 - **R's file (her claim, current):** `Emails/Rupinder 27062026 file.xlsx`
   Sheets: `Top sheet`, `Rest of the expenses by R`, ` EMI till May`, `Rent& utilities`, `Maid salaries`, `Oorvi's school`, `EMI acc txn dump`. Headline: R − A = ₹40,06,672 (`Top sheet` J14; A total I13 ₹89.92L, R total J13 ₹1,29,98,468). Supersedes the earlier `…June 26.xlsx` version.
 - **A's rebuttal (current):** `Reco Files/Apoorv_Master_Reconciliation_FINAL.xlsx`
-  Sheets: `0. Swing Summary`, `1. Wrong Claims + Diffs + Reorg`, `2. Monthwise Breakup`, `3. All Expenses Rowwise`, `4. Category Summary`, `5. BoB EMI Detail`, `6. TEHP & Income`, `7. Common Household Detail`. Headline: ~₹11.96L in A's favour (cashflow).
+  Sheets: `0. Swing Summary`, `1. Wrong Claims + Diffs + Reorg`, `2. Monthwise Breakup`, `3. All Expenses Rowwise`, `4. Category Summary`, `5. BoB EMI Detail`, `6. TEHP & Income`, `7. Common Household Detail`. Workbook headline: −₹11,96,028 (May basis; see "Current bottom line" above for the till-Aug band).
 
 ### Email exchange (`Emails/`)
 The back-and-forth, as PDF, plus R's latest workbook:
@@ -50,8 +52,8 @@ The back-and-forth, as PDF, plus R's latest workbook:
 - `Master summary.md` — the master cross-check; tier-by-tier walk from ₹35.6L claim down. Most complete narrative.
 - `Cross-check findings.md` — arithmetic verification of R's file + structural/framing critique.
 - `Credit card findings.md` — ICICI + HDFC credit-card analysis (Sobha CC payment, jewellery, childbirth).
-- `Email reply to R.md` — drafted reply to R (May round), structured A (wrong claims) / B (differences to add) / C (common-household reorg).
-- `Rebuttal v2 findings.md` — **current** rebuttal to R's 27-Jun file: strict who-paid teardown of her ₹37.34L "Rest of expenses", the Oorvi-account net-flow analysis, and the recomputed gap (~₹20–21L R's favour).
+- `Reply to Rupinder 27062026.md` — **the current outward-facing reply** (email body + Annex A–F): the ₹5.49L copy error, both sides of the seven heads, the ₹47.59L additions walk, the Oorvi ledger, and the day-to-day symmetry table. (The superseded May-round draft `Email reply to R.md` was deleted 9-Jul-2026; its A/B/C structure lives on in `Emails/Apoorv 26052026 file.xlsx` and git history.)
+- `Rebuttal v2 findings.md` — the internal analysis record behind that reply: her arithmetic restated with the copy error (§1), the who-paid teardown of her ₹37.34L "Rest of expenses" (§2), the Oorvi net-flow analysis (§3), the four-asset reconciliation (§4), and income-vs-deployment (§5).
 
 ### Evidence (`Bank Statements/Accounts/`)
 - **Axis personal** `915010015602288` — `axis statement/` (2018–2026), `AXIS FY23-25 Oct.xlsx`.
@@ -83,4 +85,4 @@ The back-and-forth, as PDF, plus R's latest workbook:
 
 ## Framing caveats (important)
 
-This is an **expense-only cashflow reconciliation.** It deliberately excludes, and must not be confused with, a full settlement: **asset distribution** (properties, vehicles, jewellery, investments, EPF/PPF/NPS), **income disparity** (A's ~₹2.19Cr gross / ₹1.71Cr net over FY19–FY26), and **maintenance / child custody**. A ₹0 expense gap is not a ₹0 settlement, and a ₹35L expense gap is not a ₹35L settlement. Keep the cashflow number and the asset-equity claims clearly separated, exactly as `Email reply to R.md` does.
+This is an **expense-only cashflow reconciliation.** It deliberately excludes, and must not be confused with, a full settlement: **asset distribution** (properties, vehicles, jewellery, investments, EPF/PPF/NPS), **income disparity** (A's ~₹2.19Cr gross / ₹1.71Cr net over FY19–FY26), and **maintenance / child custody**. A ₹0 expense gap is not a ₹0 settlement, and a ₹35L expense gap is not a ₹35L settlement. Keep the cashflow number and the asset-equity claims clearly separated, exactly as `Reply to Rupinder 27062026.md` Annex F does.
